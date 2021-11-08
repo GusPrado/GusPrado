@@ -12,7 +12,7 @@ I'm truly believe that techonology is here to improve peoples lives, and we as d
 <a href="https://wa.me/5548988595254" alt="WhatsApp" target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5548988595254"/>
 </a>
-<a>
+<a >
   <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&labelColor=5865F2&logo=discord&logoColor=white">
 </a>
 
@@ -31,6 +31,7 @@ ________
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 ![REDIS](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+<code><img height=20 src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"></code>
 
 
 
@@ -50,6 +51,8 @@ ________
 #####  Business tools
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=GusPrado" alt="gusprado" /></p>
 
 <!--
 **GusPrado/GusPrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
